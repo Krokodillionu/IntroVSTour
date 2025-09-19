@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\Kirs.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Kirs\\Kirs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\Kirs.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Kirs\\Kirs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\Kirs.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Kirs\\Kirs.csproj",
         "projectName": "Kirs",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\Kirs.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Kirs\\Kirs.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\obj\\",
         "projectStyle": "PackageReference",
