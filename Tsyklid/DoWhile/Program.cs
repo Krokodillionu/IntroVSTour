@@ -29,4 +29,5 @@ if (kasutajanimi == "user1")
         Console.WriteLine(üksRida);
         tsükliMuutuja -= 1;
     } while (tsükliMuutuja != 0);
+    Console.WriteLine($"Palun, siin on sinu ruut, suurusega {ruuduSuurus} x {ruuduSuurus}");
 }
