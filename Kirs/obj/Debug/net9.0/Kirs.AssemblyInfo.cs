@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kirs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ff8d6845e286c366f1ac9ecdbba39882efac09b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9215f5cdc7de4d3df89ee29b24b68d40d1c5fe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kirs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kirs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

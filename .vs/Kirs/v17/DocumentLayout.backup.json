@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\rxsss739\\TARpe24_pro_Rasmus\\homework\\Kirs\\IntroVSTour\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31DEB071-83E1-4B41-A303-1E6740764096}|Kirs\\Kirs.csproj|c:\\users\\opilane\\source\\repos\\introvstour\\kirs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31DEB071-83E1-4B41-A303-1E6740764096}|Kirs\\Kirs.csproj|solutionrelative:kirs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
@@ -18,10 +27,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
@@ -38,10 +43,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -62,6 +63,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Kirs\\Program.cs",
+              "RelativeDocumentMoniker": "Kirs\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Kirs\\Program.cs",
+              "RelativeToolTip": "Kirs\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA1wJIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T08:31:50.896Z",
+              "EditorCaption": ""
             }
           ]
         },
