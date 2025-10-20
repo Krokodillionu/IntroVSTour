@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\bin\Debug\net8.0\While.exe
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\bin\Debug\net8.0\While.deps.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\bin\Debug\net8.0\While.runtimeconfig.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\bin\Debug\net8.0\While.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\bin\Debug\net8.0\While.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.sourcelink.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\refint\While.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid\while\While\obj\Debug\net8.0\ref\While.dll
