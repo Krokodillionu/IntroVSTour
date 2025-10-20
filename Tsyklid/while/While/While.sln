@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Tsyklid/while/While/While.sln
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {20D97B5B-A229-40DD-B145-3FD6DBD7FE4F}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kirs", "Kirs\Kirs.csproj", "{31DEB071-83E1-4B41-A303-1E6740764096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31DEB071-83E1-4B41-A303-1E6740764096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DEB071-83E1-4B41-A303-1E6740764096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DEB071-83E1-4B41-A303-1E6740764096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DEB071-83E1-4B41-A303-1E6740764096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3FEF47-F574-419D-A201-E50C020A8784}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 1fe32ac17b5c96a3b9a6866c463b46ee32456497:Kirs.sln

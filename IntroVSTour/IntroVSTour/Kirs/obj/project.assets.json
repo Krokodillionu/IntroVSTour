@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\Kirs.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\IntroVSTour\\IntroVSTour\\Kirs\\Kirs.csproj",
       "projectName": "Kirs",
-      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\Kirs.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\IntroVSTour\\IntroVSTour\\Kirs\\Kirs.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\Source\\Repos\\IntroVSTour\\Kirs\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\IntroVSTour\\IntroVSTour\\Kirs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
