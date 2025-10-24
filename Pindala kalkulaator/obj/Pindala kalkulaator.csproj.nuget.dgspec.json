@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\Pindala kalkulaator.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\Pindala kalkulaator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\Pindala kalkulaator.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\Pindala kalkulaator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\Pindala kalkulaator.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\Pindala kalkulaator.csproj",
         "projectName": "Pindala kalkulaator",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\Pindala kalkulaator.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\Pindala kalkulaator.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

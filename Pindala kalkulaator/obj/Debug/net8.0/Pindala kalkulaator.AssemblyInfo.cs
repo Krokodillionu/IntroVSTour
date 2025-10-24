@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pindala kalkulaator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6d369ac8e65ccbea492fe643e8002023cdc7b32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6eccae070efa0307efadb9ec49935ad8c487e6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pindala kalkulaator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pindala kalkulaator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
