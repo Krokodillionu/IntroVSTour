@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\bin\Debug\net8.0\Pindala kalkulaator.exe
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\bin\Debug\net8.0\Pindala kalkulaator.deps.json
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\bin\Debug\net8.0\Pindala kalkulaator.runtimeconfig.json
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\bin\Debug\net8.0\Pindala kalkulaator.dll
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\bin\Debug\net8.0\Pindala kalkulaator.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.sourcelink.json
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.dll
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\refint\Pindala kalkulaator.dll
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\Pindala kalkulaator.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IntroVSTour\Pindala kalkulaator\obj\Debug\net8.0\ref\Pindala kalkulaator.dll

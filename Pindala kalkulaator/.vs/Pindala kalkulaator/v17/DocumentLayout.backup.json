@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E1E11D6-27C0-460A-A18B-9362980D1240}|Pindala kalkulaator.csproj|c:\\users\\opilane\\source\\repos\\introvstour\\tsyklid\\while\\pindala kalkulaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E1E11D6-27C0-460A-A18B-9362980D1240}|Pindala kalkulaator.csproj|c:\\users\\opilane\\source\\repos\\introvstour\\pindala kalkulaator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E1E11D6-27C0-460A-A18B-9362980D1240}|Pindala kalkulaator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -72,11 +72,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Tsyklid\\while\\Pindala kalkulaator\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Pindala kalkulaator\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T12:52:20.622Z",
               "EditorCaption": ""

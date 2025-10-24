@@ -3,7 +3,10 @@ string valik = Console.ReadLine();
 if (valik == "kolmnurk")
 {
     Console.WriteLine("Palun sisesta oma toa esimese külje andmed (a)");
-    string külg = Console.ReadLine();
-    
-
+    string akülg = Console.ReadLine();
+    Console.WriteLine("Palun sisesta oma toa teise külje andmed (b)");
+    string bkülg = Console.ReadLine();
+    Console.WriteLine("Palun sisesta oma toa kolmanda külje andmed (c)");
+    string ckülg = Console.ReadLine();
+    Console.WriteLine("");
 }
