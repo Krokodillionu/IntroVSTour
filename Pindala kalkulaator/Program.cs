@@ -8,5 +8,6 @@ if (valik == "kolmnurk")
     string bkülg = Console.ReadLine();
     Console.WriteLine("Palun sisesta oma toa kolmanda külje andmed (c)");
     string ckülg = Console.ReadLine();
-    Console.WriteLine("");
+    
+    
 }
