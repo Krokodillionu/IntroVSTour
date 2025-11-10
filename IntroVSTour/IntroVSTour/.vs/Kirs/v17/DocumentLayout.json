@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\IntroVSTour\\IntroVSTour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31DEB071-83E1-4B41-A303-1E6740764096}|Kirs\\Kirs.csproj|c:\\users\\opilane\\source\\repos\\introvstour\\introvstour\\introvstour\\kirs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31DEB071-83E1-4B41-A303-1E6740764096}|Kirs\\Kirs.csproj|solutionrelative:kirs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Konspekt-Kirs-IKTpe25_1\\Konspekt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,13 +71,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\IntroVSTour\\IntroVSTour\\Kirs\\Program.cs",
-              "RelativeDocumentMoniker": "Kirs\\Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\IntroVSTour\\IntroVSTour\\Kirs\\Program.cs",
-              "RelativeToolTip": "Kirs\\Program.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAmwMMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Konspekt-Kirs-IKTpe25_1\\Konspekt\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Konspekt-Kirs-IKTpe25_1\\Konspekt\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\IntroVSTour\\Konspekt-Kirs-IKTpe25_1\\Konspekt\\Program.cs",
+              "RelativeToolTip": "..\\..\\Konspekt-Kirs-IKTpe25_1\\Konspekt\\Program.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAABYBAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T08:56:49.128Z",
+              "WhenOpened": "2025-11-06T06:51:20.291Z",
               "EditorCaption": ""
             }
           ]

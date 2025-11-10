@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\bin\Debug\net8.0\TsükliteKordusÜlesanded.exe
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\bin\Debug\net8.0\TsükliteKordusÜlesanded.deps.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\bin\Debug\net8.0\TsükliteKordusÜlesanded.runtimeconfig.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\bin\Debug\net8.0\TsükliteKordusÜlesanded.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\bin\Debug\net8.0\TsükliteKordusÜlesanded.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.sourcelink.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\refint\TsükliteKordusÜlesanded.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\TsükliteKordusÜlesanded.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\Kordamisülesanded\TsükliteKordusÜlesanded\obj\Debug\net8.0\ref\TsükliteKordusÜlesanded.dll
