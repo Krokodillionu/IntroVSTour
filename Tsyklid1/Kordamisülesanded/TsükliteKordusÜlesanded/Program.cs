@@ -20,14 +20,23 @@ kuu küsimise juures peab uuesti küsima, kui nimetus ei esine programmis (kas s
 aasta juures ei tohi olla sünniaasta 19ndas sajandis (18xx) ega tulevikus. (tekib ka vahemik)
 */
 Console.WriteLine("Mis päeval on su sünnipäev?");
-string sünnipäev = "";
-sünnipäev = Console.ReadLine();
-
+int sünnikuupäev = 0;
+while (sünnikuupäev <= 31 && sünnikuupäev >= 1)
 {
-    Console.WriteLine("sinu sünnipäev on:");
-    
+    Console.WriteLine($"Sinu sünnikuupäev on {sünnikuupäev}");
+    sünnikuupäev = int.Parse(Console.ReadLine());
+}
 
-} while (sünnipäev
+
+Console.WriteLine("Sisesta ka sünnikuupäeva kuu");
+string sünnikuu = "";
+while (sünnikuu == "")
+{
+    Console.WriteLine("Sisesta kuu:");
+    sünnikuu = Console.ReadLine();
+    switch
+}
+
 
 
 /* for

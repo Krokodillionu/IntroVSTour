@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TsükliteKordusÜlesanded")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+903e49b9fbacd0bfba0d491173c533b0ebbf8fb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3aa93338b1cb8d0adf1bb405c6164277c6f271ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("TsükliteKordusÜlesanded")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TsükliteKordusÜlesanded")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
