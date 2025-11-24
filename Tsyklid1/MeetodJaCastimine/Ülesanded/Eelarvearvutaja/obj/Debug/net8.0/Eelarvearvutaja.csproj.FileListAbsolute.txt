@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\bin\Debug\net8.0\Eelarvearvutaja.exe
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\bin\Debug\net8.0\Eelarvearvutaja.deps.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\bin\Debug\net8.0\Eelarvearvutaja.runtimeconfig.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\bin\Debug\net8.0\Eelarvearvutaja.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\bin\Debug\net8.0\Eelarvearvutaja.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.sourcelink.json
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\refint\Eelarvearvutaja.dll
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.pdb
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\Eelarvearvutaja.genruntimeconfig.cache
+C:\Users\opilane\source\repos\IntroVSTour\Tsyklid1\MeetodJaCastimine\Ülesanded\Eelarvearvutaja\obj\Debug\net8.0\ref\Eelarvearvutaja.dll
