@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Castimine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3e3f7c6061150039af68016a1b860a85f747b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21784bc0174ba385b7f5d883a74ef4a2cbb33e94")]
 [assembly: System.Reflection.AssemblyProductAttribute("Castimine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Castimine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
